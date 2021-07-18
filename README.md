@@ -1,1 +1,2 @@
-# studentmanagementBackend
+# StudentManagementsystem
+ Student Management System
